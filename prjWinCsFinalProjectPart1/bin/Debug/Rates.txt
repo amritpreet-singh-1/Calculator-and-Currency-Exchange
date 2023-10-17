@@ -1,0 +1,27 @@
+﻿France
+Franc
+0.1957
+Canada
+C.N. Dollars
+0.9957
+Angleterre
+Pound
+1.9813
+Japan
+Yen
+1.1257
+India
+INR
+82.63
+UAE
+Dirham
+3.67
+Sweden
+Krona
+10.36
+Mexico
+Mexican Peso
+19.79
+Egypt
+Egyptian Pound
+24.64
